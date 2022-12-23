@@ -1,0 +1,6 @@
+*.lock
+*.out
+*.in
+
+.venv
+.idea
